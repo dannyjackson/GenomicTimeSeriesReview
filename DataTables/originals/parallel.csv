@@ -1,0 +1,193 @@
+order,File Name,parallel',author,measured_in_time_series_data,evidence_of_parallel_evolution,snp_evidence,gene_protein_evidence,parallel_diversity change,notes
+1,10.1002_ece3.2402.pdf,Yes,nouhaud,no,NA,NA,NA,NA,NA
+2,10.1002_ece3.3699.pdf,No,NA,NA,NA,NA,NA,NA,NA
+3,10.1002_ece3.4143.pdf,Yes,cammen,yes,yes,NA,NA,NA,no change in nucleotide diversity in two seals
+4,10.1002_evl3.143.pdf,Yes,hoedjes,yes,yes,no,yes,NA,candidate genes overlap with other studies; details figure 5
+5,10.1002_evl3.229.pdf,No,NA,NA,NA,NA,NA,NA,NA
+6,10.1002_evl3.269.pdf,Yes,saleh,yes,yes,yes,NA,NA,positive covariance in allele frequences of the forests between time periods 
+7,10.1007_s00239-021-10008-2.pdf,Yes,hussain,no,NA,NA,NA,NA,NA
+8,10.1007_s11262-016-1332-z.pdf,No,NA,NA,NA,NA,NA,NA,NA
+9,10.1016_j.cell.2019.03.049.pdf,Yes,fages,no,NA,NA,NA,NA,NA
+10,10.1016_j.chaos.2020.110018.pdf,No,NA,NA,NA,NA,NA,NA,NA
+11,10.1016_j.cub.2015.08.032.pdf,Yes,der sarkissian ,no,NA,NA,NA,NA,NA
+12,10.1016_j.cub.2016.10.061.pdf,No,NA,NA,NA,NA,NA,NA,NA
+13,10.1016_j.cub.2023.01.064.pdf,Yes,eaton,no,NA,NA,NA,NA,NA
+14,10.1016_j.cub.2023.03.084.pdf,Yes,diez-del-molino,no,NA,NA,NA,NA,NA
+15,10.1016_j.cub.2024.01.056.pdf,Yes,laine,no,NA,NA,NA,NA,NA
+16,10.1016_j.envres.2023.115695.pdf,No,NA,NA,NA,NA,NA,NA,NA
+17,10.1016_j.jasrep.2020.102364.pdf,No,NA,NA,NA,NA,NA,NA,NA
+18,10.1016_j.jfma.2018.01.019.pdf,Yes,gong,no,NA,NA,NA,NA,NA
+19,10.1016_j.jgg.2020.10.002.pdf,Yes,xu,no,NA,NA,NA,NA,NA
+20,10.1016_j.meegid.2013.03.035.pdf,Yes,borges,no,NA,NA,NA,NA,NA
+21,10.1016_j.meegid.2015.02.023.pdf,No,NA,NA,NA,NA,NA,NA,NA
+22,10.1016_j.meegid.2019.03.016.pdf,No,NA,NA,NA,NA,NA,NA,NA
+23,10.1016_j.meegid.2021.105153.pdf,No,NA,NA,NA,NA,NA,NA,NA
+24,10.1016_j.meegid.2021.105184.pdf,No,NA,NA,NA,NA,NA,NA,NA
+25,10.1016_j.meegid.2024.105623.pdf,Yes,castiglioni,yes,no,no,NA,NA,metric suggests that there's little paralell genetic adaptation to phenotype but statistical support is not strong
+26,10.1016_j.soilbio.2019.05.004.pdf,No,NA,NA,NA,NA,NA,NA,NA
+27,10.1016_j.watres.2022.118556.pdf,No,NA,NA,NA,NA,NA,NA,NA
+28,10.1016_j.ympev.2023.107822.pdf,No,NA,NA,NA,NA,NA,NA,NA
+29,10.1021_acs.est.2c00793.pdf,No,NA,NA,NA,NA,NA,NA,NA
+30,10.1038_ismej.2015.241.pdf,Yes,bendall,no,NA,NA,NA,NA,NA
+31,10.1038_ncomms3172.pdf,Yes,martin,yes,yes,NA,yes,NA,Amino acid changes in AVR genes in multiple modern samples of potato blight suggest evolution of more virulence
+32,10.1038_s41437-019-0264-5.pdf,Yes,qian,yes,yes,yes,NA,NA,"54 snps under selection, all fixed in descendent populations"
+33,10.1038_s41437-022-00499-0.pdf,Yes,ernst,no,NA,NA,NA,NA,NA
+34,10.1038_s41467-021-21281-6.pdf,No,NA,NA,NA,NA,NA,NA,NA
+35,10.1038_s41467-022-31622-8.pdf,Yes,stern,yes,yes,yes,NA,NA,79.4% of selected alleles shared between lines by the tenth generation of natural selection; suggested due to synergistic epistasis
+36,10.1038_s41467-023-43391-z.pdf,No,NA,NA,NA,NA,NA,NA,NA
+37,10.1038_s41477-019-0437-5.pdf,No,NA,NA,NA,NA,NA,NA,NA
+38,10.1038_s41558-023-01696-3.pdf,No,NA,NA,NA,NA,NA,NA,NA
+39,10.1038_s41559-019-0921-3.pdf,Yes,gutaker,no,NA,NA,NA,NA,NA
+40,10.1038_s41559-020-1271-x.pdf,Yes,sanberg,no,NA,NA,NA,NA,NA
+41,10.1038_s41559-022-01665-7.pdf,Yes,frei,no,NA,NA,NA,NA,NA
+42,10.1038_s41559-022-01816-w.pdf,No,NA,NA,NA,NA,NA,NA,NA
+43,10.1038_s41559-023-02114-9.pdf,Yes,ferraz,no,NA,NA,NA,NA,NA
+44,10.1038_s41559-023-02185-8.pdf,Yes,sun,no,NA,NA,NA,NA,NA
+45,10.1038_s41564-022-01157-1.pdf,No,NA,NA,NA,NA,NA,NA,NA
+46,10.1038_s41586-021-03224-9.pdf,Yes,van der valk ,no,NA,NA,NA,NA,NA
+47,10.1038_s41586-022-04824-9.pdf,Yes,bergstrom,no,NA,NA,NA,NA,NA
+48,10.1038_s41591-019-0559-3.pdf,No,NA,NA,NA,NA,NA,NA,NA
+49,10.1038_srep38915.pdf,No,NA,NA,NA,NA,NA,NA,NA
+50,10.1073_pnas.1400378111.pdf,Yes,martins,yes,yes,yes,yes,NA,resistance to parasite in four replicate populations associated with changes in pst; potential role for epistasis
+51,10.1073_pnas.1606587113.pdf,Yes,streicker,no,NA,NA,NA,NA,NA
+52,10.1073_pnas.1620410114.pdf,No,NA,NA,NA,NA,NA,NA,NA
+53,10.1073_pnas.1714246115.pdf,No,NA,NA,NA,NA,NA,NA,NA
+54,10.1073_pnas.2201521119.pdf,Yes,brennan,yes,partial,yes,NA,NA,treatment replicates had high convergent correlations; also find some changes that could be drift
+55,10.1073_pnas.242608099.pdf,No,NA,NA,NA,NA,NA,NA,NA
+56,10.1080_22221751.2022.2040921.pdf,No,NA,NA,NA,NA,NA,NA,NA
+57,10.1093_evolut_qpac061.pdf,No,NA,NA,NA,NA,NA,NA,NA
+58,10.1093_evolut_qpad054.pdf,No,NA,NA,NA,NA,NA,NA,NA
+59,10.1093_gbe_evaa036.pdf,Yes,burny,yes,no,no,NA,NA,two distinct haplotypes emerged in response to selection in different replicates
+60,10.1093_gbe_evaa073.pdf,Yes,barghi,yes,NA,NA,NA,NA,simulations suggest paralellism lower in small popualtions due to drift; parallism also lower under model that assumes epistasis (interactions among genes)
+61,10.1093_gbe_evaa178.pdf,Yes,maddamsetti,no,NA,NA,NA,NA,"about LTEE, not specific selective pressure"
+62,10.1093_gbe_evaa188.pdf,No,NA,NA,NA,NA,NA,NA,NA
+63,10.1093_gbe_evab070.pdf,No,NA,NA,NA,NA,NA,NA,NA
+64,10.1093_gbe_evab154.pdf,No,NA,NA,NA,NA,NA,NA,NA
+65,10.1093_gbe_evab237.pdf,No,NA,NA,NA,NA,NA,NA,NA
+66,10.1093_gbe_evab239.pdf,Yes,burny,yes,yes,yes,NA,NA,strong parallel selection in 10 evolved lines in response to extreme hot temps; correlation among replicates > .8; significant p val
+67,10.1093_gbe_evac074.pdf,Yes,schick,yes,partial,yes,yes,NA,found both snp and gene level parallelism but effects vary among treatments
+68,10.1093_gbe_evac114.pdf,No,NA,NA,NA,NA,NA,NA,NA
+69,10.1093_gbe_evac153.pdf,No,NA,NA,NA,NA,NA,NA,NA
+70,10.1093_gbe_evad113.pdf,Yes,barata,no,NA,NA,NA,NA,NA
+71,10.1093_gbe_evae063.pdf,No,NA,NA,NA,NA,NA,NA,NA
+72,10.1093_gbe_evae114.pdf,Yes,larsson,no,NA,NA,NA,NA,NA
+73,10.1093_gbe_evy007.pdf,No,NA,NA,NA,NA,NA,NA,NA
+74,10.1093_genetics_iyab142.pdf,Yes,michelotti,yes,partial,no,NA,yes,"Some evidence of parallel evolution, but its unrelated to treatment. mostly occurs in loss of heterozygosity"
+75,10.1093_icb_icac098.pdf,Yes,pfenninger,no,NA,NA,NA,NA,NA
+76,10.1093_infdis_jit618.pdf,No,NA,NA,NA,NA,NA,NA,NA
+77,10.1093_infdis_jix298.pdf,No,NA,NA,NA,NA,NA,NA,NA
+78,10.1093_jeb_voae068.pdf,No,NA,NA,NA,NA,NA,NA,NA
+79,10.1093_molbev_msab147.pdf,Yes,immel,no,NA,NA,NA,NA,NA
+80,10.1093_molbev_msab340.pdf,No,NA,NA,NA,NA,NA,NA,NA
+81,10.1093_molbev_msac014.pdf,Yes,aneli,no,NA,NA,NA,NA,NA
+82,10.1093_molbev_msac179.pdf,No,NA,NA,NA,NA,NA,NA,NA
+83,10.1093_molbev_msac182.pdf,Yes,debray,yes,partial,yes,no,no,populations that evolved the same resistance gene had parallel mutations in the gene
+84,10.1093_molbev_msac189.pdf,No,NA,NA,NA,NA,NA,NA,NA
+85,10.1093_molbev_msac241.pdf,Yes,hempel,no,NA,NA,NA,NA,NA
+86,10.1093_molbev_msac242.pdf,Yes,ament-velasquez ,yes,yes,yes,yes,yes,Lots of parallel evolution
+87,10.1093_molbev_msac248.pdf,Yes,linder,yes,yes,yes,yes,NA,Lots of parallel evolution within treatment; limited parallels across selective treatments; good discussion of parallel evolution
+88,10.1093_molbev_msad108.pdf,Yes,batarseh,yes,partial,NA,no,NA,evolved populations shared 38% of mutated genes. Slightly more overlap within genotype background groups
+89,10.1093_molbev_msae053.pdf,No,NA,NA,NA,NA,NA,NA,NA
+90,10.1093_molbev_msae108.pdf,Yes,wang,no,NA,NA,NA,NA,NA
+91,10.1093_molbev_msae128.pdf,Yes,angst,no,NA,NA,NA,NA,NA
+92,10.1093_molbev_msq002.pdf,No,NA,NA,NA,NA,NA,NA,NA
+93,10.1093_molbev_mst111.pdf,Yes,turner,no,NA,NA,NA,NA,kind of gets at parallelism but in an indirect way
+94,10.1093_molbev_mst205.pdf,Yes,tobler,no,NA,NA,NA,NA,NA
+95,10.1093_molbev_msu048.pdf,No,NA,NA,NA,NA,NA,NA,NA
+96,10.1093_molbev_msu192.pdf,No,NA,NA,NA,NA,NA,NA,NA
+97,10.1093_molbev_msu256.pdf,Yes,burke,yes,yes,yes,NA,NA,NA
+98,10.1093_molbev_msu320.pdf,Yes,franssen,no,NA,NA,NA,NA,NA
+99,10.1093_molbev_msv033.pdf,Yes,bailey,yes,partial,partial,yes,NA,degree of parallelism varied; number of available beneficial mutations negatively correlated with parallelism; paralellism was higher in spatially structured environments
+100,10.1093_molbev_msv248.pdf,No,NA,NA,NA,NA,NA,NA,NA
+101,10.1093_molbev_msw254.pdf,No,NA,NA,NA,NA,NA,NA,NA
+102,10.1093_molbev_msx247.pdf,Yes,seabra,yes,no,no,NA,NA,good paper for discussion of parallel evolution
+103,10.1093_molbev_msx254.pdf,Yes,hardy,yes,partial,partial,NA,NA,"strong genetic differentiation of starvation treatment replicates from control replicats, but still lots of variation in starvation ones"
+104,10.1093_molbev_msz183.pdf,Yes,vlachos,no,NA,NA,NA,NA,NA
+105,10.1093_ve_vead049.pdf,No,NA,NA,NA,NA,NA,NA,NA
+106,10.1093_ve_veae012.pdf,Yes,courcelle,no,NA,NA,NA,NA,NA
+107,10.1093_ve_vex035.pdf,Yes,carratala,no,NA,NA,NA,NA,NA
+108,10.1093_ve_vez020.pdf,No,NA,NA,NA,NA,NA,NA,NA
+109,10.1098_rspb.2015.0801.pdf,Yes,morley,yes,partial,partial,NA,NA,novel substitution occurred in 12/24 populations; parallelism was less in populations that shifted rapidly onto novel hosts 
+110,10.1098_rspb.2021.0577.pdf,No,NA,NA,NA,NA,NA,NA,NA
+111,10.1098_rspb.2022.1857.pdf,Yes,burny,yes,partial,yes,NA,NA,"finds lots of convergence in temperature replicates, but where replicates don't have same adaptations its not clear if its an alternative solution or just drift (they call it drift) "
+112,10.1098_rstb.2022.0190.pdf,Yes,reid,yes,yes,yes,NA,yes,find parallel changes in allele frequencies and linkage groups in different cod populations greater than expected by chance 
+113,10.1099_MGEN.0.000553.pdf,Yes,leyn,yes,partial,yes,yes,NA,We have observed parallel evolution toward a single mechanism of robust TCS resistance; ll these trajectories converged within 4days into a limited number of solutions (Fig. 4) sharing one general mechanism of robust TCS resistance (up to 16-fold increase in IC90) driven by a range of adaptive amino acid substitutions in the vicinity of NAD/TCS-binding site of the known target enzyme enoyl- [ACP]-reductase Fab
+114,10.1099_jgv.0.000258.pdf,No,NA,NA,NA,NA,NA,NA,NA
+115,10.1099_mgen.0.001170.pdf,No,NA,NA,NA,NA,NA,NA,NA
+116,10.1111_1755-0998.13167.pdf,Yes,gauthier,no,NA,NA,NA,NA,NA
+117,10.1111_1755-0998.13837.pdf,No,NA,NA,NA,NA,NA,NA,NA
+118,10.1111_cobi.13889.pdf,No,NA,NA,NA,NA,NA,NA,NA
+119,10.1111_eva.12594.pdf,Yes,wales,no,NA,NA,NA,NA,NA
+120,10.1111_eva.13656.pdf,Yes,howe,yes,no,yes,NA,no,"one region showed parallel genomic differentiation, but no enriched go terms were found in the peaks, suggesting different genes under selection"
+121,10.1111_evo.12849.pdf,No,NA,NA,NA,NA,NA,NA,NA
+122,10.1111_evo.13205.pdf,No,NA,NA,NA,NA,NA,NA,NA
+123,10.1111_gcb.17126.pdf,Yes,benham,no,NA,NA,NA,NA,NA
+124,10.1111_jam.15806.pdf,No,NA,NA,NA,NA,NA,NA,NA
+125,10.1111_jeb.13764.pdf,Yes,selveshwari,yes,partial,NA,yes,NA,"experimental evolution of ecoli at two different growth phases; similar genes mutated in both treatments, but different functional groups "
+126,10.1111_jeb.14152.pdf,Yes,johnson,yes,no,no,partial,NA,"some changes in similar stress genes, but largely little overlap in snps"
+127,10.1111_mec.12260.pdf,Yes,therkildsen,yes,no,no,NA,NA,snp changes were largely non parallel
+128,10.1111_mec.13615.pdf,Yes,franks,yes,no,no,no,NA,"Allele frequencies did not shift in parallel between the two populations for these 11 genes more than expected by chance (Pearson correlation r = 0.03, P = 0.85; Fig. 3b). ; few parallel genes under selection"
+129,10.1111_mec.13748.pdf,No,NA,NA,NA,NA,NA,NA,NA
+130,10.1111_mec.14240.pdf,Yes,eoche-bosy,no,NA,NA,NA,NA,NA
+131,10.1111_mec.15085.pdf,Yes,rego,yes,partial,yes,NA,NA,we found that adaptation on lentil occurred via somewhat idi_ osyncratic evolutionary changes;  parallel evolutionary changes were evident in sub_ lines formed after the lentil line had passed through a bottleneck (extreme parallelism following bottleneck r = .857)
+132,10.1111_mec.15579.pdf,Yes,langmuller,yes,partial,partial,NA,NA,early selection is stronger and more parallel; points out that studies of parallelism probably suffer from positive confirmation bias/methodological bias
+133,10.1111_mec.15687.pdf,Yes,phillips,no,NA,NA,NA,NA,NA
+134,10.1111_mec.16111.pdf,Yes,gompert,no,NA,NA,NA,NA,NA
+135,10.1111_mec.16451.pdf,No,NA,NA,NA,NA,NA,NA,NA
+136,10.1111_mec.16503.pdf,Yes,robin,no,NA,NA,NA,NA,NA
+137,10.1111_mec.16748.pdf,Yes,pfenninger,yes,yes,yes,NA,NA,same alleles under selection during natural cold snap and laboratory cold snap
+138,10.1111_mec.16760.pdf,No,NA,NA,NA,NA,NA,NA,NA
+139,10.1111_mec.16933.pdf,Yes,besnier,no,NA,NA,NA,NA,NA
+140,10.1111_mec.17274.pdf,Yes,kellner,no,NA,NA,NA,NA,NA
+141,10.1126_sciadv.aax0530.pdf,Yes,retel,yes,partial,partial,NA,NA,some parallelism observed in parasites but not hosts
+142,10.1128_AEM.00179-18.pdf,No,NA,NA,NA,NA,NA,NA,NA
+143,10.1128_JB.00587-20.pdf,No,NA,NA,NA,NA,NA,NA,NA
+144,10.1128_JVI.01080-14.pdf,No,NA,NA,NA,NA,NA,NA,NA
+145,10.1128_JVI.01519-08.pdf,No,NA,NA,NA,NA,NA,NA,NA
+146,10.1128_JVI.02055-14.pdf,No,NA,NA,NA,NA,NA,NA,NA
+147,10.1128_mBio.00987-21.pdf,Yes,zlamal,yes,partial,NA,partial,NA,mutations occurred in anywhere from 8 to 100% of replicates; Table1
+148,10.1128_mSystems.00495-21.pdf,Yes,debroy,no,NA,NA,NA,NA,NA
+149,10.1128_msystems.01477-21.pdf,No,NA,NA,NA,NA,NA,NA,NA
+150,10.1128_spectrum.01219-22.pdf,Yes,periwal,no,NA,NA,NA,NA,does discuss common mutations among sars viruses but does not explicitly test that goal 
+151,10.1128_spectrum.03128-23.pdf,No,NA,NA,NA,NA,NA,NA,NA
+152,10.1186_1471-2148-13-46.pdf,Yes,bedhomme,yes,no,no,NA,NA,low level of parallel evolution; lots of divergence of sequences despite a shared environment
+153,10.1186_s12711-024-00900-y.pdf,No,NA,NA,NA,NA,NA,NA,NA
+154,10.1186_s12862-016-0662-8.pdf,Yes,plucain,yes,no,no,partial,NA,mutations in 7 genes detected in >1 population; mutated genes were largely environment-specific in the first phase. Little parallelism/contingency in the second phase of evolution
+155,10.1186_s12862-021-01789-7.pdf,No,NA,NA,NA,NA,NA,NA,NA
+156,10.1186_s12862-022-02083-w.pdf,Yes,muller-girard,no,NA,NA,NA,NA,NA
+157,10.1186_s12864-016-3298-6.pdf,No,NA,NA,NA,NA,NA,NA,NA
+158,10.1186_s12864-017-3485-0.pdf,Yes,michalak,no,NA,NA,NA,NA,reports overlap in replicates but isn't testing for parallel evolution
+159,10.1186_s12864-021-07700-4.pdf,No,NA,NA,NA,NA,NA,NA,NA
+160,10.1186_s12866-017-1111-6.pdf,No,NA,NA,NA,NA,NA,NA,NA
+161,10.1186_s12866-021-02158-6.pdf,No,NA,NA,NA,NA,NA,NA,NA
+162,10.1186_s13059-018-1503-4.pdf,Yes,mallard,no,NA,NA,NA,NA,NA
+163,10.1186_s13059-021-02425-9.pdf,Yes,otte,no,NA,NA,NA,NA,identifies targets of selection by looking for changes in allele frequencies across replicates
+164,10.1371_journal.pbio.0030300.pdf,No,NA,NA,NA,NA,NA,NA,NA
+165,10.1371_journal.pbio.1001637.pdf,Yes,mcnulty,no,NA,NA,NA,NA,NA
+166,10.1371_journal.pbio.2001586.pdf,Yes,yen,yes,partial,NA,partial,partial,see figure 5
+167,10.1371_journal.pbio.3002333.pdf,Yes,shpak,no,NA,NA,NA,NA,NA
+168,10.1371_journal.pgen.1006585.pdf,Yes,sanchez,yes,partial,NA,yes,NA,Different yeast species evolve tolerance to sulfate-limited culture through mutations in one of two sulfate transporter genes
+169,10.1371_journal.pgen.1009722.pdf,Yes,pentz,yes,partial,no,yes,NA,"discusses forcasting; Mutated regions in proteins could be predicted in most cases (16/22), but parallelism at the nucleotide level was low and muta- tional hot spot sites were not conserved. "
+170,10.1371_journal.pgen.1011333.pdf,Yes,zion,yes,yes,yes,yes,NA,adaptation to long term starvation is characterized by remarkably high parallelism and frequent historical contingency; 84% of mutations at last time point occurred in more than one replicate; good example
+171,10.1371_journal.pntd.0011527.pdf,No,NA,NA,NA,NA,NA,NA,NA
+172,10.1371_journal.pone.0147549.pdf,No,NA,NA,NA,NA,NA,NA,NA
+173,10.1371_journal.pone.0201838.pdf,No,NA,NA,NA,NA,NA,NA,NA
+174,10.1371_journal.ppat.1008298.pdf,Yes,pearson,no,NA,NA,NA,NA,NA
+175,10.1371_journal.ppat.1009744.pdf,No,NA,NA,NA,NA,NA,NA,NA
+176,10.1371_journal.ppat.1010993.pdf,Yes,carrasquilla,no,NA,NA,NA,NA,notes that mutations associated with drug resistance emerge in wild populations but isn't an explicit test of paralellism
+177,10.1371_journal.ppat.1012090.pdf,No,NA,NA,NA,NA,NA,NA,NA
+178,10.15252_msb.20188462.pdf,Yes,guzman,yes,yes,NA,yes,NA,song signs of parallel evolution were observed at the level of mutated genes in the replicate experiments
+179,10.1534_g3.115.023200.pdf,No,NA,NA,NA,NA,NA,NA,NA
+180,10.1534_g3.117.043349.pdf,Yes,barghi,no,NA,NA,NA,NA,important discussion of false positives
+181,10.1534_genetics.112.143396.pdf,No,NA,NA,NA,NA,NA,NA,NA
+182,10.1534_genetics.118.301824.pdf,Yes,kelly,yes,yes,yes,NA,NA,parallel evolution of 138 snps across genome; fewer sites report significant heterogenous selection; maybe useful for methods
+183,10.3201_eid1909.130377.pdf,No,NA,NA,NA,NA,NA,NA,NA
+184,10.3201_eid2701.191541.pdf,No,NA,NA,NA,NA,NA,NA,NA
+185,10.3389_fmars.2020.00205.pdf,No,NA,NA,NA,NA,NA,NA,NA
+186,10.3390_d13110584.pdf,No,NA,NA,NA,NA,NA,NA,NA
+187,10.3390_genes11040400.pdf,Yes,rego,yes,partial,partial,NA,NA,we detected modest parallelism in allele frequency change across replicate lines during adaptation to lentil; good example for parallel evolution
+188,10.3390_pathogens12081065.pdf,No,NA,NA,NA,NA,NA,NA,NA
+189,10.3390_v11080720.pdf,No,NA,NA,NA,NA,NA,NA,NA
+190,10.3390_vaccines11101537.pdf,Yes,dieng,no,NA,NA,NA,NA,NA
+191,10.7554_eLife.03568.pdf,No,NA,NA,NA,NA,NA,NA,NA
+192,10.7554_eLife.64971.pdf,No,NA,NA,NA,NA,NA,NA,NA

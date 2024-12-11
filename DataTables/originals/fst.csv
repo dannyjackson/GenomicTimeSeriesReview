@@ -1,0 +1,179 @@
+Author,File Name,'fst',measured_in_time_series_data,level_of_analysis,hypothesized_diver_of_change,spacetime_or_time,sliding_window_vs_entire_genome,candidate_gene_list,raw_stats
+,10.1002_ece3.2402.pdf,No,,,,,,,
+Schmid,10.1002_ece3.3699.pdf,Yes,yes,multiple spatial,habitat loss to ariculture and urbanization; anthropogenic,spacetime,genomewide,no,see doc
+Cammen,10.1002_ece3.4143.pdf,Yes,no,NA,NA,NA,NA,NA,NA
+,10.1002_evl3.143.pdf,No,,,,,,,
+Saleh,10.1002_evl3.269.pdf,Yes,yes,multiple spatial,climate change; anthropogenic,spacetime,genomewide,no,see doc
+,10.1007_s00239-021-10008-2.pdf,No,,,,,,,
+,10.1007_s11262-016-1332-z.pdf,No,,,,,,,
+Fages,10.1016_j.cell.2019.03.049.pdf,Yes,no,NA,NA,NA,NA,NA,NA
+,10.1016_j.chaos.2020.110018.pdf,No,,,,,,,
+Sarkissian,10.1016_j.cub.2015.08.032.pdf,Yes,no,NA,NA,NA,NA,NA,NA
+,10.1016_j.cub.2016.10.061.pdf,No,,,,,,,
+,10.1016_j.cub.2023.01.064.pdf,No,,,,,,,
+,10.1016_j.cub.2023.03.084.pdf,No,,,,,,,
+,10.1016_j.cub.2024.01.056.pdf,No,,,,,,,
+,10.1016_j.envres.2023.115695.pdf,No,,,,,,,
+,10.1016_j.jasrep.2020.102364.pdf,No,,,,,,,
+,10.1016_j.jfma.2018.01.019.pdf,No,,,,,,,
+,10.1016_j.jgg.2020.10.002.pdf,No,,,,,,,
+,10.1016_j.meegid.2013.03.035.pdf,No,,,,,,,
+,10.1016_j.meegid.2015.02.023.pdf,No,,,,,,,
+,10.1016_j.meegid.2019.03.016.pdf,No,,,,,,,
+,10.1016_j.meegid.2021.105153.pdf,No,,,,,,,
+Chen,10.1016_j.meegid.2021.105184.pdf,Yes,no,NA,NA,NA,NA,NA,NA
+,10.1016_j.meegid.2024.105623.pdf,No,,,,,,,
+,10.1016_j.soilbio.2019.05.004.pdf,No,,,,,,,
+,10.1016_j.watres.2022.118556.pdf,No,,,,,,,
+,10.1016_j.ympev.2023.107822.pdf,No,,,,,,,
+,10.1021_acs.est.2c00793.pdf,No,,,,,,,
+,10.1038_ismej.2015.241.pdf,No,,,,,,,
+,10.1038_ncomms3172.pdf,No,,,,,,,
+Qian,10.1038_s41437-019-0264-5.pdf,Yes,yes,multiple temporal,ecogeographical adaptation,time,genomewide,yes,"see doc. ""Moreover, BayeScan results showed that in the ancestral populations, the average values of FST were 0.382 and 0.381 for candi- date genes and reference genes, respectively, while in the descendant populations, the average values of FST were 0.469 and 0.462 for candidate genes and reference genes, respectively (Fig. 2b). Based on the t-test, the significantly higher average values of FST for both candidate loci and reference loci in the descendant populations than in the ancestral populations suggest that genetic differentiation had been significantly enhanced over the past 28 generations."""
+,10.1038_s41467-021-21281-6.pdf,No,,,,,,,
+Stern,10.1038_s41467-022-31622-8.pdf,Yes,no,NA,NA,NA,NA,NA,NA
+,10.1038_s41467-023-43391-z.pdf,No,,,,,,,
+,10.1038_s41477-019-0437-5.pdf,No,,,,,,,
+Turbek,10.1038_s41558-023-01696-3.pdf,Yes,yes,multiple spatial,increases in temperature; anthropogenic climate change,spacetime,both,yes,"see doc. ""While individuals sampled in San Diego in the late 1800s were more genetically distinct, allele frequencies in modern San raising concerns about climate-induced extinction16. Diego samples are now intermediate to those of the Pacific northwest To further explore evolutionary responses to climate changein the southwestern willow flycatcher, we focus specifically on Sanand desert southwest (Fig. 1b). Mean fixation index (FST) between the historical and contemporary San Diego populations was 0.06, com- Diego, California, where the number of willow flycatcher breedingparable to FST estimates between historical San Diego and neighbour- territoriesisdecliningdespitewidespreadabundancebefore194017,18.California has warmed by an average of 1.4 ÁC since 189519. Combineding contemporary populations in the Pacific northwest (0.06) and with an increase in the variability of precipitation patterns, this rise indesert southwest (0.05). Mapping of the sequence data to the zebra finch (Taeniopygia guttata) genome revealed that the FST outlier loci temperature has led to the growing frequency and intensity of wildfires,droughts and other extreme weather events19. Using whole-genome(FST > 0.38; 99th percentile of FST divergence) between the historical and contemporary individuals from San Diego were scattered throughout sequencing (WGS) of 17 historical specimens, collected from 1888 tothe genome (Extended Data Fig. 1)."""
+,10.1038_s41559-019-0921-3.pdf,No,,,,,,,
+,10.1038_s41559-020-1271-x.pdf,No,,,,,,,
+Frei,10.1038_s41559-022-01665-7.pdf,Yes,yes,single,Habitat diversity and water depth changes; anthropogenic eutrophication,time,genomewide,no,"For SNPs pre=0.046(0.052) [n=7(18)], post=0.022 [n=14]. This whole part of the analysis is kind of suspect given the samples sizes."
+,10.1038_s41559-022-01816-w.pdf,No,,,,,,,
+Ferraz,10.1038_s41559-023-02114-9.pdf,Yes,no,NA,NA,NA,NA,NA,NA
+Sun,10.1038_s41559-023-02185-8.pdf,Yes,yes,multiple spatial,habitat loss; hunting; anthropogenic factors,spacetime,genomewide,no,see doc
+,10.1038_s41564-022-01157-1.pdf,No,,,,,,,
+,10.1038_s41586-021-03224-9.pdf,No,,,,,,,
+Bergstrom,10.1038_s41586-022-04824-9.pdf,Yes,yes,multiple spatial,glaciation,spacetime,genomewide,no,see doc
+,10.1038_s41591-019-0559-3.pdf,No,,,,,,,
+,10.1038_srep38915.pdf,No,,,,,,,
+,10.1073_pnas.1400378111.pdf,No,,,,,,,
+,10.1073_pnas.1620410114.pdf,No,,,,,,,
+,10.1073_pnas.1714246115.pdf,No,,,,,,,
+,10.1073_pnas.2201521119.pdf,No,,,,,,,
+,10.1073_pnas.242608099.pdf,No,,,,,,,
+,10.1080_22221751.2022.2040921.pdf,No,,,,,,,
+Sinitambirivoutin ,10.1093_evolut_qpad054.pdf,Yes,yes,simulation,NA,NA,NA,NA,NA
+,10.1093_gbe_evaa036.pdf,No,,,,,,,
+,10.1093_gbe_evaa073.pdf,No,,,,,,,
+,10.1093_gbe_evaa178.pdf,No,,,,,,,
+Parejo,10.1093_gbe_evaa188.pdf,Yes,yes,single,"Apicultural practices; pesticide use, agricultural practices",time,genomewide,no,"Fst between museum and modern samples was 0.007, 95% CI 0.004-0.009"
+,10.1093_gbe_evab070.pdf,No,,,,,,,
+,10.1093_gbe_evab154.pdf,No,,,,,,,
+,10.1093_gbe_evab237.pdf,No,,,,,,,
+,10.1093_gbe_evab239.pdf,No,,,,,,,
+,10.1093_gbe_evac074.pdf,No,,,,,,,
+,10.1093_gbe_evac153.pdf,No,,,,,,,
+,10.1093_gbe_evad113.pdf,No,,,,,,,
+,10.1093_gbe_evae063.pdf,No,,,,,,,
+,10.1093_gbe_evae114.pdf,No,,,,,,,
+Cridland,10.1093_gbe_evy007.pdf,Yes,no,NA,NA,NA,NA,NA,NA
+,10.1093_genetics_iyab142.pdf,No,,,,,,,
+,10.1093_icb_icac098.pdf,No,,,,,,,
+,10.1093_infdis_jit618.pdf,No,,,,,,,
+,10.1093_infdis_jix298.pdf,No,,,,,,,
+Parvizi,10.1093_jeb_voae068.pdf,Yes,yes,multiple temporal,pesticide use,time,genomewide,yes,see doc
+Immel,10.1093_molbev_msab147.pdf,Yes,yes,single,bubonic plage,time,genomewide,yes,see supplementary 4
+,10.1093_molbev_msab340.pdf,No,,,,,,,
+,10.1093_molbev_msac014.pdf,No,,,,,,,
+,10.1093_molbev_msac179.pdf,No,,,,,,,
+,10.1093_molbev_msac182.pdf,No,,,,,,,
+Wu,10.1093_molbev_msac189.pdf,Yes,yes,multiple spatial,pet trade and habitat loss; anthropogenic factors,time,window,no,see doc
+,10.1093_molbev_msac241.pdf,No,,,,,,,
+,10.1093_molbev_msac242.pdf,No,,,,,,,
+,10.1093_molbev_msac248.pdf,No,,,,,,,
+,10.1093_molbev_msad108.pdf,No,,,,,,,
+,10.1093_molbev_msae053.pdf,No,,,,,,,
+Wang,10.1093_molbev_msae108.pdf,Yes,yes,multiple spatial,selective breeding; anthropogenic factors,time,window,yes,see doc
+Angst,10.1093_molbev_msae128.pdf,Yes,yes,multiple temporal,time and population isolation,spacetime,window,no,see doc
+,10.1093_molbev_msq002.pdf,No,,,,,,,
+,10.1093_molbev_mst205.pdf,No,,,,,,,
+Baldwin-Brown,10.1093_molbev_msu048.pdf,Yes,no,NA,NA,NA,NA,NA,NA
+Skoglund,10.1093_molbev_msu192.pdf,Yes,yes,simulation,NA,NA,NA,NA,NA
+,10.1093_molbev_msu256.pdf,No,,,,,,,
+,10.1093_molbev_msu320.pdf,No,,,,,,,
+,10.1093_molbev_msv033.pdf,No,,,,,,,
+Jha,10.1093_molbev_msv248.pdf,Yes,no,NA,NA,NA,NA,NA,NA
+,10.1093_molbev_msw254.pdf,No,,,,,,,
+Seabra,10.1093_molbev_msx247.pdf,Yes,yes,multiple temporal,differences in ancestral altitude but now in common environment,time,genomewide,yes,see doc
+Hardy,10.1093_molbev_msx254.pdf,Yes,no,NA,NA,NA,NA,NA,NA
+,10.1093_molbev_msz183.pdf,No,,,,,,,
+Billard,10.1093_ve_vead049.pdf,Yes,yes,multiple spatial,farming practices; anthropogenic factors,spacetime,genomewide,no,"(FST(years) = 0.2796; P < 0.0001, Fig. 2). "
+,10.1093_ve_veae012.pdf,No,,,,,,,
+,10.1093_ve_vex035.pdf,No,,,,,,,
+,10.1093_ve_vez020.pdf,No,,,,,,,
+,10.1098_rspb.2015.0801.pdf,No,,,,,,,
+,10.1098_rspb.2021.0577.pdf,No,,,,,,,
+,10.1098_rspb.2022.1857.pdf,No,,,,,,,
+Reid,10.1098_rstb.2022.0190.pdf,Yes,yes,multipe spatial; also simulation,fishing pressure; anthropogenic factors,spacetime,genomewide,no,see doc
+,10.1099_MGEN.0.000553.pdf,No,,,,,,,
+,10.1099_jgv.0.000258.pdf,No,,,,,,,
+,10.1099_mgen.0.001170.pdf,No,,,,,,,
+Gauthier,10.1111_1755-0998.13167.pdf,Yes,yes,multiple spatial,"habitat loss, anthropogenic",spacetime,genomewide,no,see doc
+,10.1111_1755-0998.13837.pdf,No,,,,,,,
+Marshall,10.1111_cobi.13889.pdf,Yes,yes,multiple temporal,"reinintroduction, in situ conservation; anthropogenic",,,no,see doc
+,10.1111_eva.12594.pdf,No,,,,,,,
+Howe,10.1111_eva.13656.pdf,Yes,yes,multiple spatial,rearing in hatchery; captive breeding; anthropogenic,spacetime,genomewide,yes,see doc
+,10.1111_evo.12849.pdf,No,,,,,,,
+Benham,10.1111_gcb.17126.pdf,Yes,yes,multiple spatial,"coastal habitat loss; urbanization, agriculture, and mining; anthropogenic",spacetime,both,,see doc
+,10.1111_jam.15806.pdf,No,,,,,,,
+,10.1111_jeb.13764.pdf,No,,,,,,,
+,10.1111_jeb.14152.pdf,No,,,,,,,
+Therkildsen,10.1111_mec.12260.pdf,Yes,yes,multiple temporal,overfishing; anthropogenic,spacetime,genomewide,yes,see doc
+Franks,10.1111_mec.13615.pdf,Yes,yes,multiple spatial,drought; climate change,spacetime,both,yes,see doc
+,10.1111_mec.15085.pdf,No,,,,,,,
+,10.1111_mec.15579.pdf,No,,,,,,,
+,10.1111_mec.15687.pdf,No,,,,,,,
+Gompert,10.1111_mec.16111.pdf,Yes,yes,multiple temporal,fragmented populations,spacetime,genomewide,no,see doc
+,10.1111_mec.16451.pdf,No,,,,,,,
+,10.1111_mec.16748.pdf,No,,,,,,,
+Osborne,10.1111_mec.16760.pdf,Yes,no,NA,NA,NA,NA,NA,NA
+,10.1111_mec.16933.pdf,No,,,,,,,
+Kellner,10.1111_mec.17274.pdf,Yes,yes,multiple temporal,"hunting, anthropogenic",spacetime,both,yes,see doc
+,10.1126_sciadv.aax0530.pdf,No,,,,,,,
+,10.1128_AEM.00179-18.pdf,No,,,,,,,
+,10.1128_JB.00587-20.pdf,No,,,,,,,
+Nelson,10.1128_JVI.01080-14.pdf,Yes,no,NA,NA,NA,NA,NA,NA
+,10.1128_JVI.01519-08.pdf,No,,,,,,,
+,10.1128_JVI.02055-14.pdf,No,,,,,,,
+,10.1128_mBio.00987-21.pdf,No,,,,,,,
+DebRoy,10.1128_mSystems.00495-21.pdf,Yes,no,NA,NA,NA,NA,NA,NA
+Hwang,10.1128_msystems.01477-21.pdf,Yes,no,NA,NA,NA,NA,NA,NA
+,10.1128_spectrum.01219-22.pdf,No,,,,,,,
+,10.1128_spectrum.03128-23.pdf,No,,,,,,,
+,10.1186_1471-2148-13-46.pdf,No,,,,,,,
+,10.1186_s12711-024-00900-y.pdf,No,,,,,,,
+,10.1186_s12862-016-0662-8.pdf,No,,,,,,,
+O'Hara,10.1186_s12862-021-01789-7.pdf,Yes,yes,multiple spatial,pathogens and drought,spacetime,both,yes,see doc
+,10.1186_s12862-022-02083-w.pdf,No,,,,,,,
+,10.1186_s12864-016-3298-6.pdf,No,,,,,,,
+,10.1186_s12864-021-07700-4.pdf,No,,,,,,,
+,10.1186_s12866-017-1111-6.pdf,No,,,,,,,
+,10.1186_s12866-021-02158-6.pdf,No,,,,,,,
+Mallard,10.1186_s13059-018-1503-4.pdf,Yes,no,NA,NA,NA,NA,NA,NA
+,10.1186_s13059-021-02425-9.pdf,No,,,,,,,
+,10.1371_journal.pbio.0030300.pdf,No,,,,,,,
+,10.1371_journal.pbio.2001586.pdf,No,,,,,,,
+Schpak,10.1371_journal.pbio.3002333.pdf,Yes,yes,multiple temporal,range expansion and urbanization; anthropogenic factors,spacetime,both,yes,see doc
+,10.1371_journal.pgen.1006585.pdf,No,,,,,,,
+,10.1371_journal.pgen.1009722.pdf,No,,,,,,,
+,10.1371_journal.pgen.1011333.pdf,No,,,,,,,
+,10.1371_journal.pntd.0011527.pdf,No,,,,,,,
+,10.1371_journal.pone.0147549.pdf,No,,,,,,,
+,10.1371_journal.pone.0201838.pdf,No,,,,,,,
+,10.1371_journal.ppat.1008298.pdf,No,,,,,,,
+,10.1371_journal.ppat.1009744.pdf,No,,,,,,,
+,10.1371_journal.ppat.1010993.pdf,No,,,,,,,
+,10.1371_journal.ppat.1012090.pdf,No,,,,,,,
+,10.15252_msb.20188462.pdf,No,,,,,,,
+,10.1534_g3.115.023200.pdf,No,,,,,,,
+,10.1534_g3.117.043349.pdf,No,,,,,,,
+,10.1534_genetics.112.143396.pdf,No,,,,,,,
+Kelly,10.1534_genetics.118.301824.pdf,Yes,no,NA,NA,NA,NA,NA,NA
+,10.3201_eid1909.130377.pdf,No,,,,,,,
+,10.3201_eid2701.191541.pdf,No,,,,,,,
+,10.3390_genes11040400.pdf,No,,,,,,,
+,10.3390_pathogens12081065.pdf,No,,,,,,,
+,10.3390_v11080720.pdf,No,,,,,,,
+Dieng,10.3390_vaccines11101537.pdf,Yes,yes,multiple temporal,vaccination; dengue control countermeasures,time,genomewide,no,see doc
+,10.7554_eLife.03568.pdf,No,,,,,,,
+Dominguez-Andres,10.7554_eLife.64971.pdf,Yes,yes,multiple temporal,pathogens,time,genomewide,yes,see doc
