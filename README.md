@@ -80,7 +80,16 @@ Cleaned and standardized datasets for analysis.
 
 ---
 
-## Code Files
+
+
+## Supporting Files
+
+- **`methodfiles.txt`** – List of all method-related documents or files referenced during the review.
+- **`reviewfiles.txt`** – Inventory of all data and code files included in this repository.
+
+---
+    
+## Code scripts and workflow
 
 - **`0.1_downloadpdfs.py`** – Python script to batch download PDFs from DOIs.
 - **`0.2_pdfgrep.sh`** – Shell script for searching text strings (grep) within PDFs.
@@ -94,21 +103,8 @@ Cleaned and standardized datasets for analysis.
 
 ---
 
-## Supporting Files
-
-- **`methodfiles.txt`** – List of all method-related documents or files referenced during the review.
-- **`reviewfiles.txt`** – Inventory of all data and code files included in this repository.
-
----
-    
-Code scripts and workflow
-    1. 1_FilteringDatatables.sh
-    2. 2_CreatingMainDatatable.r
-    3. 3_AnalyzingAllData.r
-    4. 4_AnalyzingAnthropogenic.r
-
-SOFTWARE VERSIONS
-R version 4.2.2 (2022-10-31)
+## SOFTWARE VERSIONS
+- ** `R version 4.2.2 (2022-10-31)`
 Packages:
 dplyr_1.1.4 
 ggplot2_3.5.1
