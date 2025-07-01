@@ -105,12 +105,12 @@ Cleaned and standardized datasets for analysis.
 
 ## SOFTWARE VERSIONS
 - **R version 4.2.2 (2022-10-31)** 
-Packages:
-dplyr_1.1.4 
-ggplot2_3.5.1
-ggpubr_0.6.0
-ggthemr_1.1.0  
-tidyverse_2.0.0
-corrplot_0.92  
-gridExtra_2.3  
-patchwork_1.2.0
+### Packages:
+- **dplyr_1.1.4** 
+- **ggplot2_3.5.1** 
+- **ggpubr_0.6.0** 
+- **ggthemr_1.1.0** 
+- **tidyverse_2.0.0** 
+- **corrplot_0.92** 
+- **gridExtra_2.3** 
+- **patchwork_1.2.0** 
