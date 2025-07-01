@@ -104,7 +104,7 @@ Cleaned and standardized datasets for analysis.
 ---
 
 ## SOFTWARE VERSIONS
-- ** R version 4.2.2 (2022-10-31) ** 
+- **R version 4.2.2 (2022-10-31)** 
 Packages:
 dplyr_1.1.4 
 ggplot2_3.5.1
