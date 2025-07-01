@@ -104,21 +104,21 @@ Cleaned and standardized datasets for analysis.
 ---
 
 ## SOFTWARE VERSIONS
-- **R version 4.2.2 (2022-10-31)** 
-### Packages:
-- **dplyr_1.1.4** 
-- **ggplot2_3.5.1** 
-- **ggpubr_0.6.0** 
-- **ggthemr_1.1.0** 
-- **tidyverse_2.0.0** 
-- **corrplot_0.92** 
-- **gridExtra_2.3** 
-- **patchwork_1.2.0** 
-- **Hmisc.5.2.3** 
-- **ggcorrplot.0.1.4.1** 
-- **ggforce.0.4.2** 
+### **R version 4.2.2 (2022-10-31)**
+- **Packages:**
+    - **dplyr_1.1.4** 
+    - **ggplot2_3.5.1** 
+    - **ggpubr_0.6.0** 
+    - **ggthemr_1.1.0** 
+    - **tidyverse_2.0.0** 
+    - **corrplot_0.92** 
+    - **gridExtra_2.3** 
+    - **patchwork_1.2.0** 
+    - **Hmisc.5.2.3** 
+    - **ggcorrplot.0.1.4.1** 
+    - **ggforce.0.4.2** 
 
-- **Python version 3.11.9 (2024-04-02)**
-### Packages:
-- **doi2pdf 0.1.3**
-- **pandas version 2.2.2**
+### **Python version 3.11.9 (2024-04-02)**
+- **Packages:**
+    - **doi2pdf 0.1.3**
+    - **pandas version 2.2.2**
