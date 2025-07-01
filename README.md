@@ -32,32 +32,30 @@ This data repository consist of one supplementary data file, four code scripts, 
 ### `DataTables/`
 
 #### `Combined_WOS_Scopus_results/`
-- **`AugustSearch.xlsx`** – Papers returned from the August 202X literature search.
-- **`MaySearch.xlsx`** – Papers returned from the May 202X literature search.
+- **`AugustSearch.xlsx`** – Papers returned from the August 2024 literature search.
+- **`MaySearch.xlsx`** – Papers returned from the May 2024 literature search.
 
 
 #### `filtered/`
 Filtered datasets representing the final dataset used for analyses.
-- **`filtered_drift.csv`** – Data on genetic drift across studies
-- **`filtered_effectivepopulation.csv`** – Data on effective population size (Ne) across studies
-- **`filtered_fst.csv`** – Data on FST across studies
-- **`filtered_geneflow.csv`** – Data on gene flow across studies
-- **`filtered_inbreeding.csv`** – Data on inbreeding coefficients across studies
-- **`filtered_molecularclock.csv`** – Data on molecular clock  across studies
-- **`filtered_nucleotidediversity.csv`** – Data on nucleotide diversity across studies
-- **`filtered_parallel.csv`** – Data on parallel evolutionary signals across studies
-- **`filtered_populationstructure.csv`** – Data on population structure across studies
-- **`filtered_screened_papers.csv`** – Summary of which papers passed final screening.
-- **`filtered_selection.csv`** – Data on selection across studies
-- **`filtered_tajima.csv`** – Data on Tajima's D across studies
-
-#### `originals/`
-Raw extracted data and PDFs.
-- **`pdfs_all/`** – Folder containing PDFs of all papers analyzed in this study.
-- **`allpopstats.csv`** – Full dataset of all extracted metrics before filtering.
-- **`popgenstats_increasedecrease.csv`** – Summary of directionality (increase/decrease) across all population genetic metrics.
-- **`screened_papers.csv`** – All papers screened with pass/fail outcome.
-- **`PopGenTerm.csv` files (e.g., `effective population.csv`)** – Raw data for each population genetics metric.
+- **`filtered_PopGenTerm.csv`files (e.g., `filtered_effectivepopulation.csv`)**  – Data on each population genetic metric across studies. Columns are:
+    - **File.Name** - Name of file in the pdf repository
+    - **first_author** - Last name of the first author 
+    - **measured_in_time_series** - Binary yes/no, identifies if this metric was measured in time series from genomic data in this paper
+    - **level of analysis** - Identifies if the metric was measures across time from one population or multiple populations or was only computed once
+    - **increase_decrease** - Did the metric change in a postive or negative direction over time?
+    - **method.of.estimating** - What method was used to estimate this metric? (sometimes, not included in all files) 
+    - **raw.stats** - What are the raw values of the metric? (sometimes, not included in all files)
+- **`filtered_screened_papers.csv`** – Summary of which papers passed final screening. Columns are:
+    - **collectedmonth** - Was this article collected in the May or August search?
+    - **doi** - The DOI for the paper
+    - **pdf** - The full file name of the paper
+    - **year** - The year the paper was published
+    - **journal** - The journal of publication
+    - **volume** - The volume in that journal of the publication
+    - **issue** - The issue of the publication
+    - **dbs** - Was the article collected from Scopus or Web of Science or both?
+    - **authors** - Full author list
 
 #### `popstats/`
 Cleaned and standardized datasets for analysis.
