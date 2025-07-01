@@ -114,3 +114,11 @@ Cleaned and standardized datasets for analysis.
 - **corrplot_0.92** 
 - **gridExtra_2.3** 
 - **patchwork_1.2.0** 
+- **Hmisc.5.2.3** 
+- **ggcorrplot.0.1.4.1** 
+- **ggforce.0.4.2** 
+
+- **Python version 3.11.9 (2024-04-02)**
+### Packages:
+- **doi2pdf 0.1.3**
+- **pandas version 2.2.2**

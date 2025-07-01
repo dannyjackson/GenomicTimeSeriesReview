@@ -3,28 +3,9 @@
 
 # Load in libraries
 library(dplyr)
-library(ggpubr)
-library(MASS)
-library(lme4)
-library(lmerTest)
-library(afex)
 library(ggplot2)
-library(emmeans)
-library(jtools)
-library(tidyr)
-library(interactions)
-library(effects)
-library(car)
 library(Hmisc)
-library(HSAUR)
-library(ggbiplot)
-library(dplyr)
-library(sjPlot)
-library(sjmisc)
-library(ggeffects)
-library(clusterSim)
 library(ggcorrplot)
-library(vegan)
 library(ggforce)
 
 # Load in the datafile
