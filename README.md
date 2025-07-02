@@ -3,7 +3,7 @@ Code used to perform a metaanalysis of time-series genomic papers
 
 GENERAL INFORMATION
 
-This README.txt file was updated on December 13th, 2024
+This README.txt file was updated on July 2nd, 2025
 
 A. Paper associated with this archive: Forecasting Genomic Change with Time Series Sequence Data
 
