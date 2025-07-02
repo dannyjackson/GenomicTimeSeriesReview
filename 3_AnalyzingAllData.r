@@ -4,7 +4,7 @@
 library(dplyr)
 library(ggplot2)
 library(ggpubr)
-library(ggthemr)
+library(ggthemr) # devtools::install_github('Mikata-Project/ggthemr') 
 library(tidyverse)
 library(corrplot)
 library(gridExtra)
