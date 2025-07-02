@@ -24,7 +24,7 @@ None
 
 
 # DATA & CODE FILE OVERVIEW
-This data repository consist of one supplementary data file, four code scripts, and this README. Below is a file-by-file overview, including brief descriptions of each file's content and purpose.
+This data repository consist of data files, scripts, and this README. Below is a file-by-file overview, including brief descriptions of each file's content and purpose.
 
 ---
 
