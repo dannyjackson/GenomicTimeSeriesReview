@@ -162,4 +162,4 @@ combined_df_tmp <- subset(combined_df,select = names(combined_df) %ni% to_remove
 combined_df <- combined_df_tmp
 
 # Write to file
-write.csv(combined_df, "DataTables/final_datatables/alldata.csv")
+write.csv(combined_df, "DataTables/alldata.csv")
